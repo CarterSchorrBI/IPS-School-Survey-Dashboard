@@ -1,7 +1,7 @@
 <h1>IPS School Survey Dashboard</h1>
 
 <h2>Description</h2>
-This project was created during one of my classes at Butler University. For this project, I partnered with Indianapolis public schools to distribute a survey and create a Tableau dashboard to effectively communicate my findings. Although the data displayed is not the same as the original survey data, the dashboard shown is the same dashboard that I presented to the Indianapolis public school board. You can access the Tableau workbook file above, or click on this LINK to view the dashboard in Tableau public. Additionally, you can refer to the images below for a static view of the dashboard.
+This project was created during one of my classes at Butler University. For this project, I partnered with Indianapolis public schools to distribute a survey and create a Tableau dashboard to effectively communicate my findings. Although the data displayed is not the same as the original survey data, the dashboard shown is the same dashboard that I presented to the Indianapolis public school board. You can access the Tableau workbook file above, or click on this <a href="https://public.tableau.com/views/IPSDashboard_17057077206150/Home?:language=en-US&:display_count=n&:origin=viz_share_link">Link</a> to view the dashboard in Tableau public. Additionally, you can refer to the images below for a static view of the dashboard.
 <br />
 
 
@@ -15,7 +15,7 @@ This project was created during one of my classes at Butler University. For this
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/hZmZKff" width="80%" alt="IPS Dashboard - Home"/>
 <br />
 <br />
 Select the disk:  <br/>
