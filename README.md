@@ -14,30 +14,18 @@ This project was created during one of my classes at Butler University. For this
 <h2>Dashboard Images</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/hZmZKff" width="80%" alt="IPS Dashboard - Home"/>
+<img src="https://i.imgur.com/dmGcHfY.png" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rn10VOr.png" height="80%" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/heGrMzk.png" height="80%" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h4ZxK9f.png" height="80%" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WTRaG3y.png" height="80%" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
