@@ -17,7 +17,7 @@ This project was created during one of my classes at Butler University. For this
 <img src="https://i.imgur.com/dmGcHfY.png" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
-<img src="https://i.imgur.com/Rn10VOr.png" height="80%" width="80%" alt="IPS Dashboard"/>
+<img src="https://i.imgur.com/FJsiSPf.png" height="80%" width="80%" alt="IPS Dashboard"/>
 <br />
 <br />
 <img src="https://i.imgur.com/heGrMzk.png" height="80%" width="80%" alt="IPS Dashboard"/>
